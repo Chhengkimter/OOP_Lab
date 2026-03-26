@@ -1,0 +1,9 @@
+How many numbers to be input?: 3
+Enter the numbers:
+64
+23
+76
+Sum: 163
+Average: 54.333333333333336
+Max: 76
+Min: 23

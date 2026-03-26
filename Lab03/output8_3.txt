@@ -1,0 +1,36 @@
+Book ID: 1
+Title: Mstybloom
+ISBN: 43958373
+Price: $23.99
+Authors:
+- John Doe
+  Nationality: USA
+  Birth Year: 1990
+  Biography: Biography of John Doe
+
+
+Book ID: 2
+Title: Mstybloom2
+ISBN: 398853953
+Price: $29.99
+Authors:
+- John Doe
+  Nationality: USA
+  Birth Year: 1990
+  Biography: Biography of John Doe
+
+- Jane Doe
+  Nationality: USA
+  Birth Year: 1991
+  Biography: Biography of Jane Doe
+
+
+Book ID: 3
+Title: Mstybloom3
+ISBN: 927458278
+Price: $31.99
+Authors:
+- Jane Doe
+  Nationality: USA
+  Birth Year: 1991
+  Biography: Biography of Jane Doe

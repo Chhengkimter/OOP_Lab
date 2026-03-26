@@ -1,0 +1,90 @@
+Phone Setting:
+1 . General                   >
+2 . Wi-Fi                     >
+3 . Bluetooth                 >
+4 . Mobile Data               >
+5 . Hotspot                   >
+6 . Notification              >
+0 . Exit
+Enter choice: 1
+
+General:
+1 . About                     >
+2 . Software Update           >
+3 . Storage                   >
+0 . Back
+Enter choice: 2
+
+General > Software Update:
+====================================
+Software is up to date
+====================================
+0 . Back
+Enter choice: 3
+
+General > Software Update:
+====================================
+Software is up to date
+====================================
+0 . Back
+Enter choice: 0
+
+General:
+1 . About                     >
+2 . Software Update           >
+3 . Storage                   >
+0 . Back
+Enter choice: 2
+
+General > Software Update:
+====================================
+Software is up to date
+====================================
+0 . Back
+Enter choice: 2
+
+General > Software Update:
+====================================
+Software is up to date
+====================================
+0 . Back
+Enter choice: 0
+
+General:
+1 . About                     >
+2 . Software Update           >
+3 . Storage                   >
+0 . Back
+Enter choice: 3
+
+General > Storage:
+==================================================
+             Storage information
+==================================================
+0 . Back
+Enter choice: 3
+
+General > Storage:
+==================================================
+             Storage information
+==================================================
+0 . Back
+Enter choice: 0
+
+General:
+1 . About                     >
+2 . Software Update           >
+3 . Storage                   >
+0 . Back
+Enter choice: 0
+
+Phone Setting:
+1 . General                   >
+2 . Wi-Fi                     >
+3 . Bluetooth                 >
+4 . Mobile Data               >
+5 . Hotspot                   >
+6 . Notification              >
+0 . Exit
+Enter choice: 0
+Exiting...

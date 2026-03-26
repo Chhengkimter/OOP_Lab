@@ -1,0 +1,29 @@
+===== Menu ====
+1. Create a student
+2. List students
+3. Quit
+Choose an option: 1
+Enter student ID: 45
+Enter student name: me
+Enter student age: 5
+Do you want to add more (y/n)? y
+Enter student ID: 45
+Enter student name: you
+Enter student age: 7
+Do you want to add more (y/n)? n
+===== Menu ====
+1. Create a student
+2. List students
+3. Quit
+Choose an option: 2
+=====================================================
+| No.   | ID         | Name                 | Age   |
+=====================================================
+| 1     | 45         | me                   | 5     |
+| 2     | 45         | you                  | 7     |
+=====================================================
+===== Menu ====
+1. Create a student
+2. List students
+3. Quit
+Choose an option: 3

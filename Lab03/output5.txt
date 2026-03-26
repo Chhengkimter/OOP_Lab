@@ -1,0 +1,100 @@
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Min
+6. Max
+7. Exit
+Enter your choice: 
+1
+Enter two numbers: 
+42
+23
+65.0
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Min
+6. Max
+7. Exit
+Enter your choice: 
+2
+Enter two numbers: 
+43
+534
+-491.0
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Min
+6. Max
+7. Exit
+Enter your choice:
+3
+Enter two numbers: 
+6
+3
+18.0
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Min
+6. Max
+7. Exit
+Enter your choice:
+4
+Enter two numbers: 
+6
+3
+2.0
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Min
+6. Max
+7. Exit
+Enter your choice:
+4
+Enter two numbers: 
+7
+9
+0.7777777777777778
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Min
+6. Max
+7. Exit
+Enter your choice:
+5
+Enter two numbers: 
+67
+86
+67.0
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Min
+6. Max
+7. Exit
+Enter your choice:
+6
+Enter two numbers: 
+3
+5
+5.0
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. Min
+6. Max
+7. Exit
+Enter your choice:
+7

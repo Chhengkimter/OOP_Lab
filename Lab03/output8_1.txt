@@ -1,0 +1,29 @@
+Name: iPhone17
+Product ID: 1
+Date: 2020-12-24
+Price: 1000.0
+Category: Apple
+Category ID: 1
+Date: 2020-12-24
+Description: A phone that is smart
+Image URL: abcd1234
+
+Name: iPhone17ProMax
+Product ID: 2
+Date: 2020-12-24
+Price: 2000.0
+Category: Apple
+Category ID: 1
+Date: 2020-12-24
+Description: A phone that is smart
+Image URL: abcd1234
+
+Name: iPhone17Pro
+Product ID: 3
+Date: 2020-12-24
+Price: 1500.0
+Category: Apple
+Category ID: 1
+Date: 2020-12-24
+Description: A phone that is smart
+Image URL: abcd1234

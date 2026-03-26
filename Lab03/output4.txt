@@ -1,0 +1,14 @@
+Enter student ID: 0007
+Enter student name: Kimter
+Enter student age: 19
+Do you want to add more (y/n)? y
+Enter student ID: 0003
+Enter student name: Gojo
+Enter student age: 25
+Do you want to add more (y/n)? n
+=====================================================
+| No.   | ID         | Name                 | Age   |
+===================================================
+| 1     | 7          | Kimter               | 19    |
+| 2     | 3          | Gojo                 | 25    |
+=====================================================
